@@ -1,0 +1,48 @@
+body{
+    background-color: #E6E6FA;
+}
+
+h1{
+    color: #20B2AA;
+}
+
+p{
+    font-family: Helvetica;
+    color:lightgrey;
+}
+
+h3{
+    color:lightgrey;
+}
+
+#one{
+    color: #FECF92;
+}
+
+#two{
+    color: #FF8B33;
+}
+
+#three{
+    color: #919461;
+}
+
+#four{
+    color: #CCE666;
+}
+
+#five{
+    color: #D6E1EB;
+}
+
+#six{
+    color: #E0BDDB;
+}
+
+#seven{
+    color: #E3C7D1;
+}
+
+#eight{
+    color: #99ccff;
+}
